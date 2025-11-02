@@ -1,6 +1,10 @@
 # EKS Deployment and CI/CD for the "Wisecow" Application
 
+![Deployment](https://img.shields.io/badge/Deployment-Inactive-red)
+
 **Live Deployment:** [https://wisecow-on-kubernetes.online](https://wisecow-on-kubernetes.online)
+
+> **Note:** The live deployment at the URL above is currently inactive. The underlying AWS EKS cluster has been decommissioned to manage project costs. All deployment configurations remain available within this repository for review and educational purposes.
 
 ## 1. Project Objective
 
